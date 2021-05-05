@@ -1,4 +1,4 @@
-## Hi, I’m Yehonatan Albert
+## Hi, I’m Yehonatan Albert 😄
 💻 I’m currently learning C#, HTML, CSS, JavaScript, ActionScript 2
 
 <span align="center">
