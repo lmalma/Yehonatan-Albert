@@ -1,5 +1,5 @@
 ## Hi, I’m Yehonatan Albert
-💻 I’m currently learning C#, HTML, CSS, JavaScript, ActionScript 2, Java Me
+💻 I’m currently learning C#, HTML, CSS, JavaScript, ActionScript, Java ME
 
 <span align="center">
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
