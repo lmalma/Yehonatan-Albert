@@ -1,5 +1,9 @@
 ## Hi, I’m Yehonatan Albert
-💻 I’m currently learning C#, HTML, CSS, JavaScript, ActionScript, Java ME
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=Yehonatan-Albert&show_icons=true&theme=radical&custom_title=My+Github+Stat's:)
+![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yehonatan-Albert&layout=compact&theme=radical&custom_title=Most+used+programming+Languages:)
+
+💻 I’m currently learning C#, HTML, CSS, JavaScript, ActionScript and Java ME
 
 <span align="center">
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -10,4 +14,4 @@
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </span>
 
-### I love to create apps for NOKIA C2-01
+### I love to create apps for Nokia C2-01
