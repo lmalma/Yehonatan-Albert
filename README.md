@@ -1,6 +1,6 @@
 ## Hi, I’m Yehonatan Albert
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yehonatan-Albert&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yehonatan-Albert&langs_count=8)
 
 💻 I’m currently learning C#, HTML, CSS, JavaScript, ActionScript and Java ME
 
